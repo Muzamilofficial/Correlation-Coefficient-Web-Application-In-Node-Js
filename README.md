@@ -52,8 +52,7 @@ To run this project locally, follow these steps:
 
 #### The correlation and regression results displayed after calculation:
 ![image](https://github.com/user-attachments/assets/5069ebb4-68c5-42c2-a0c3-c6747d950f35)
-![image](https://github.com/user-attachments/assets/c2aff819-5510-4fd0-8fa7-31118874e29c)
 
 ---
 
-Feel free to customize the repository with your desired features and improvements! 🚀
+### Feel free to customize the repository with your desired features and improvements! 🚀
