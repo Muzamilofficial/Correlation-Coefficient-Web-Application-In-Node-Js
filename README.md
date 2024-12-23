@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/correlation-regression-calculator.git
+    git clone https://github.com/Muzamilofficial/correlation-regression-calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 5. Open the app in your browser:
     - Visit `http://localhost:3000`
 
-## 🖼️ Screenshots
+# 🖼️ Screenshots Of The Application
 
 ### 🎨 Web Interface
 
